@@ -1,0 +1,22 @@
+[product_1]
+max_num=2
+query_name=111
+total_query_name=sum111
+begin_time=2016-06-14 12:00:00
+
+[product_2]
+max_num=2
+query_name=222
+total_query_name=sum222
+begin_time=2016-06-14 12:00:00
+
+[product_3]
+max_num=2
+query_name=333
+total_query_name=sum333
+begin_time=2016-06-14 12:00:00
+
+[common]
+query_prefix=poduct_
+ip=localhost
+port=9090
